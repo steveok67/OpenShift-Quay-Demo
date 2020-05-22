@@ -1,0 +1,8 @@
+{
+  "auths": {
+    "example-quayecosystem-quay-default.apps.ocpdemo.<your_domain_name>.com": {
+      "auth": "<data intentionally omitted>",
+      "email": ""
+    }
+  }
+}
